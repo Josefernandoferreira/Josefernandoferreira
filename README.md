@@ -1,8 +1,8 @@
 ## Olá! Eu sou o José Fernando
 
 - 🔭 Hoje trabalho no back-end com PHP
-- 🌱 Atualmente estou estudando design patterns em PHP: padrões criacionais
-- 😄 Pronome: ele/dele
+- 🌱 Atualmente estou estudando design patterns em PHP: padrões criacionais, na Alura
+- 📚 Formado em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/josefernandoferreira">
