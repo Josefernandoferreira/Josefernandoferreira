@@ -31,4 +31,4 @@
     <a href="https://www.josefernando-dev.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120"></a> 
 </div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]("assets/img/snake-animation.svg")
