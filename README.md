@@ -1,9 +1,6 @@
 ## Olá! Eu sou o José Fernando
 
-- 🔭 Hoje trabalho no back-end com PHP
-- 🌱 Atualmente estou estudando design patterns em PHP: padrões criacionais, na Alura
-- 📚 Formado em Análise e Desenvolvimento de Sistemas
-
+- 🔭 Hoje trabalho no Frontend com React
 <div align="center">
   <a href="https://github.com/josefernandoferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josefernandoferreira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
