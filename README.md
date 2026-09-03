@@ -1,27 +1,32 @@
-👋 Hi, I'm José Fernando
+# 👋 Hi, I'm José Fernando
 
-Software Engineer & Product Builder building products with AI, real-time systems, and interactive experiences.
+**Software Engineer & Product Builder** building products with **AI, real-time systems, and interactive experiences**.
 
-💻 10+ years of experience building software with PHP, Laravel, Node.js, Vue, React, TypeScript, and cloud technologies.
+💻 10+ years of experience building software with **PHP, Laravel, Node.js, Vue, React, TypeScript, and cloud technologies**.
 
-🚀 Currently building goDekia — a platform that transforms traditional presentations into interactive, real-time multiplayer experiences.
+🚀 Currently building **goDekia** — a platform that transforms traditional presentations into **interactive, real-time multiplayer experiences**.
 
-🧠 Interested in AI, SaaS, product development, distributed systems, and developer productivity.
+🧠 Interested in **AI, SaaS, product development, distributed systems, and developer productivity**.
 
 🌎 Based in Brazil, building for a global audience.
 
-What I Build
-🤖 AI-powered applications
-⚡ Real-time & multiplayer experiences
-🚀 SaaS products
-🧩 Full-stack applications
-☁️ Cloud & scalable architectures
-🎯 Developer tools & productivity
-Currently
+---
 
-🔨 Building goDekia
-🧠 Exploring AI & modern software architecture
+### What I Build
+
+* 🤖 AI-powered applications
+* ⚡ Real-time & multiplayer experiences
+* 🚀 SaaS products
+* 🧩 Full-stack applications
+* ☁️ Cloud & scalable architectures
+* 🎯 Developer tools & productivity
+
+### Currently
+
+🔨 Building **goDekia**
+🧠 Exploring **AI & modern software architecture**
 🌎 Connecting with developers, founders, and tech communities worldwide
+
 
 <div align="center">
   <a href="https://github.com/josefernandoferreira">
