@@ -1,6 +1,7 @@
 ## Olá! Eu sou o José Fernando
 
-- 🔭 Hoje trabalho no Frontend com React
+Software Engineer & Product Builder focused on AI, interactive experiences and developer productivity.
+
 <div align="center">
   <a href="https://github.com/josefernandoferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josefernandoferreira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
